@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @supershaneski
-- 👀 I’m interested in ... many things
-- 🌱 I’m currently learning ... anything react and its applications
-- 💞️ I’m looking to collaborate on ... no time for that yet
-- 📫 How to reach me ... here
+<p align="center">
+  <em>Javascript &centerdot; React.js &centerdot; Next &centerdot; Vue.js &centerdot; Nuxt &centerdot; AI &centerdot; Three.js</em>
+</p>
 
 <!---
 supershaneski/supershaneski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
