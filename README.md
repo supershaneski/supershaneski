@@ -1,5 +1,5 @@
 <p align="center">
-  <em>Javascript &star; React.js &heartsuit; Next &heartsuit; Vue.js &heartsuit; Nuxt &heartsuit; AI &star; Three.js</em>
+  <em>&star; Javascript &star; React.js &star; Next &star; Vue.js &star; Nuxt &star; AI &star; Three.js &star;</em>
 </p>
 
 <!---
